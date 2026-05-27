@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.env
+*.db
+*.db-journal
+*.log
+logs/
+conversations/
+search_cache/
+.agentcode_state.json
+.code_backups/
+ai_router.py.bak
+db_dump.txt

@@ -1,0 +1,9 @@
+{
+  "name": "AI Assistant",
+  "short_name": "AIAssist",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#06060f",
+  "theme_color": "#06060f",
+  "icons": []
+}
